@@ -1,0 +1,47 @@
+button{
+    width: 61.5px;
+    height: 43px;
+    background-image: linear-gradient(to right, #895cf2 0%, #ffabf4 50%, #895cf2 100%);
+    /* background: linear-gradient(-45deg, #FFA63D, #FF3D77, #338AFF, #3CF0C5); */
+    border: 2px solid black;
+    border-radius: 10px;
+    
+}
+body {
+	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+	height: 100vh;
+}
+.joker{
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+}
+
+.container{
+    padding: 20px;
+    text-align: center;   
+}
+table{
+    margin: auto;
+}
+#screen{
+    width: 250px;
+    height: 30px;
+    border: 3px solid black;
+    border-radius: 5px;
+    font-size: 20px;
+
+}
+#joke{
+    font-size:20px;
+    color: white;
+}
+h1{
+    font-size:30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(217, 36, 36);
+}

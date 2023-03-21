@@ -1,1 +1,1 @@
-# harsha.calci
+# Calculator using Javascript
